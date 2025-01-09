@@ -7,8 +7,14 @@ _______________
 ### Regressão Logística
 **Pycaret - Pipeline**
 _______________
-Implentações com Streamlit:
+## Implentações com Streamlit:
 
+### Modelo Final:
+[streamlit-model_final.webm](https://github.com/user-attachments/assets/bb0e67cc-258e-404c-aac5-34d24717f722)
+
+### Modelo Lightgbm: 
+
+[Uploading streamlit-model_lightgbm.webm…]()
 
 
 
