@@ -2,9 +2,9 @@
 **Victor Resende**
 
 # Projeto-Credit_Scoring
-Projeto de Credit Scoring para previsão de renda
+##Projeto de Credit Scoring para previsão de renda
 _______________
-# Regressão Logística
+### Regressão Logística
 **Pycaret - Pipeline**
 _______________
 Implentações com Streamlit:
