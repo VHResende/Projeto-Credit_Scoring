@@ -14,8 +14,8 @@ _______________
 
 ### Modelo Lightgbm: 
 
-[Uploading streamlit-model_lightgbm.webm…]()
-
+[streamlit-model_lightgbm.webm](https://github.com/user-attachments/assets/60332de1-1595-4067-b8cd-e8b07cc938f8)
+_______________
 
 
 
